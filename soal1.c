@@ -53,3 +53,5 @@ int main(){
     printf("TOTAL %d", HitungTotal(n));
     return 0;
 }
+
+//Terdapat referensi fungsi dalam kode C untuk mencetak seluruh kemungkinan dari sumber geeks for geeks
