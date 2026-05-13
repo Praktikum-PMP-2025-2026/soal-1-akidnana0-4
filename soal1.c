@@ -1,3 +1,11 @@
+/** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2024/2025
+*   Modul                       : 05 – Foundation of Algorithm
+*   Hari dan Tanggal            : Rabu, 13 Mei 2026
+*   Nama (NIM)                  : Aziiz Adityatama (13224070)
+*   Nama File                   : Rabu1Modul5.c
+*   Deskripsi                   : Mencetak seluruh kemungkinan bracket yang berurutan leksikografis dan mencetak banyak kemungkinannya
+*/
+
 #include <stdio.h>
 #define MAX_SIZE 100
  
